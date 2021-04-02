@@ -14,4 +14,4 @@
 - Để lưu đồ thị dưới dạng ảnh, bạn có thể nhấn phải chuột vào màn hình đồ thị rồi chọn `Save`.
 
 ## Hình ảnh minh họa
-![](sample.png)
+![](sample2.png)
