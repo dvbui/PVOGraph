@@ -1,6 +1,7 @@
 # PVOGraph
 
 ## Hướng dẫn sử dụng:
+- Tải tệp ![PVOGraph001.zip](https://drive.google.com/file/d/1i-EujvvoK6XIwRPtlhxsbw9PjcnBMtoo/view?usp=sharing)
 - Giải nén tệp `PVOGraph001.zip`. Ta sẽ nhận được một thư mục `graph`, lưu ý thư mục này có thể nằm trong một thư mục tên `PVOGraph001`
 - Tìm tệp `Default.mdb` trong thư mục `PVO/Database/Default`, rồi copy tệp này vào thư mục `graph`
 - Nhấn đúp chuột vào tệp `graph.exe`
